@@ -2,10 +2,7 @@
 
 **Team:** 5  
 **Module:** IT204F (Project)  
-**Industry:** Education (MOE / Tertiary Institutions)
-
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![Scratch](https://img.shields.io/badge/Engine-Scratch-orange)
+**Industry:** Education (MOE)
 
 ## 📖 Project Overview
 A gamified simulation designed to address **Student Burnout** and the **Lack of Life Management Skills** in the Singapore education system.
