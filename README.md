@@ -5,7 +5,7 @@
 **Industry:** Education (MOE)
 
 ## 📖 Project Overview
-A gamified simulation designed to address **Student Burnout** and the **Lack of Life Management Skills** in the Singapore education system.
+A gamified simulation designed to address **Student Burnout** and the **Lack of Decision Making Skills** in the education system.
 
 Unlike traditional advisory methods, this interactive role playing game allows students to experience the consequences of their choices in a safe environment. Players needs to balance academic pressure, mental health, and social life over a simulated 7 days period.
 
