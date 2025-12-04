@@ -5,7 +5,7 @@
 **Industry:** Education (MOE / Tertiary Institutions)
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![Software](https://img.shields.io/badge/Engine-Scratch-orange)
+![Scratch](https://img.shields.io/badge/Engine-Scratch-orange)
 
 ## 📖 Project Overview
 A gamified simulation designed to address **Student Burnout** and the **Lack of Life Management Skills** in the Singapore education system.
