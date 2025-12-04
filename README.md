@@ -17,7 +17,6 @@ Unlike traditional advisory methods, this interactive role playing game allows s
 ---
 
 ## 👥 Team Roles & Task Allocation
-*As required by IT204F Assessment Guidelines*
 
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
@@ -29,7 +28,6 @@ Unlike traditional advisory methods, this interactive role playing game allows s
 ---
 
 ## 📅 Project Schedule
-*Aligned with Module Timeline*
 
 | Phase | Timeline | Key Deliverables | Status |
 | :--- | :--- | :--- | :--- |
