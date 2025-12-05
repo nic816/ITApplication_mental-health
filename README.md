@@ -31,11 +31,11 @@ Unlike traditional advisory methods, this interactive role playing game allows s
 
 | Phase | Timeline | Key Deliverables | Status |
 | :--- | :--- | :--- | :--- |
-| **Ideation** | Weeks 1-5 | Company selection, Problem definition, Proposal Draft. | ✅ Completed |
-| **Proposal** | **Week 9** | **Project Proposal Presentation**. | 🚧 In Progress |
-| **Development** | Weeks 10-14 | Scratch Logic coding. | ⏳ Pending |
-| **Refinement** | Week 15 |  Testing, Bug Fixes (Project Review). | ⏳ Pending |
-| **Final** | **Week 17** | Final Build, Final Presentationt. | ⏳ Pending |
+| **Ideation** | Weeks 1-5 | Company selection, Problem definition, Proposal Draft | ✅ Completed |
+| **Proposal** | **Week 9** | **Project Proposal Presentation** | 🚧 In Progress |
+| **Development** | Weeks 10-14 | Scratch Logic coding | ⏳ Pending |
+| **Refinement** | Week 15 |  Testing, Bug Fixes (Project Review) | ⏳ Pending |
+| **Final** | **Week 17** | Final Build, Final Presentationt | ⏳ Pending |
 
 ---
 
