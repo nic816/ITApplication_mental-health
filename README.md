@@ -1,7 +1,7 @@
 # Student Equilibrium: Student Life Simulation 
 
 **Team:** 5  
-**Module:** IT204F (Project)  
+**Module:** IT204F 
 **Industry:** Education (MOE)
 
 ## 📖 Project Overview
