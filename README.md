@@ -1,4 +1,4 @@
-# Student Equilibrium: Student Life Simulation 
+# The 7-Day Balance Challenge: Student Life Simulation 
 
 **Team:** 5  
 **Module:** IT204F 
