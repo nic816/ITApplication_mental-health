@@ -20,11 +20,9 @@ Unlike traditional advisory methods, this interactive role playing game allows s
 
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
-| **[Member 1 Name]** | **Logic & Systems** | Game Logic (Variables, RNG, IF/ELSE), System Architecture, GitHub Mgmt. |
-| **[Member 2 Name]** | **UI/UX Designer** | Sprite Design, Interface Layout, Asset Sourcing, visual feedback logic. |
-| **[Member 3 Name]** | **Narrative designer** | Scriptwriting (Dialogue & Scenarios), defining Event Logic and Endings. |
-| **[Member 4 Name]** | **Version controls, documentation** | Playtesting, Bug Tracking, Final Report compiling, Version Control. |
-
+| **Ming You & Kayden** | **Logic & Systems** | Game Logic (Variables, RNG, IF/ELSE), System Architecture, GitHub Mgmt. |
+| **Braedon** | **UI/UX Designer** | Sprite Design, Interface Layout, Asset Sourcing, visual feedback logic. |
+| **Nicholas** | **Narrative designer** | Scriptwriting (Dialogue & Scenarios), defining Event Logic and Endings. |
 ---
 
 ## 📅 Project Schedule
