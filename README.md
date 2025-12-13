@@ -20,7 +20,7 @@ Unlike traditional advisory methods, this interactive role playing game allows s
 
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
-| **Ming You & Kayden** | **Logic & Systems** | Game Logic (Variables, RNG, IF/ELSE), System Architecture, GitHub management. |
+| **Ming You & Kayden** | **Lead Programmers** | Game Logic (Variables, RNG, IF/ELSE), System Architecture, GitHub management. |
 | **Braedon** | **UI/UX Designer** | Sprite Design, Interface Layout, Asset Sourcing, visual feedback logic. |
 | **Nicholas** | **Narrative designer** | Scriptwriting (Dialogue & Scenarios), defining Event Logic and Endings. |
 ---
